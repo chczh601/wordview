@@ -1,0 +1,82 @@
+[
+  {
+    "id":1,
+    "name":{"zh":"京都","en":"Kyoto"},
+    "continent":"asia",
+    "climate":"temperate",
+    "lat":35.0116,
+    "lng":135.7681,
+    "img":"https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=800&q=60",
+    "desc":{"zh":"古寺与枫叶，和服漫步","en":"Ancient temples & maple leaves, stroll in kimono."}
+  },
+  {
+    "id":2,
+    "name":{"zh":"巴厘岛","en":"Bali"},
+    "continent":"asia",
+    "climate":"tropical",
+    "lat":-8.3405,
+    "lng":115.0920,
+    "img":"https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=800&q=60",
+    "desc":{"zh":"梯田与神庙，冲浪天堂","en":"Terraces & sea temples, surfers' paradise."}
+  },
+  {
+    "id":3,
+    "name":{"zh":"冰岛南岸","en":"South Iceland"},
+    "continent":"europe",
+    "climate":"cold",
+    "lat":63.4198,
+    "lng":-19.0183,
+    "img":"https://images.unsplash.com/photo-1520769945061-0a448c463865?auto=format&fit=crop&w=800&q=60",
+    "desc":{"zh":"黑沙滩与极光，冰与火之地","en":"Black beaches & aurora, land of fire & ice."}
+  },
+  {
+    "id":4,
+    "name":{"zh":"撒哈拉门户","en":"Marrakech"},
+    "continent":"africa",
+    "climate":"arid",
+    "lat":31.6295,
+    "lng":-7.9811,
+    "img":"https://images.unsplash.com/photo-1559929312-5a2180862078?auto=format&fit=crop&w=800&q=60",
+    "desc":{"zh":"红城与集市，薄荷茶香","en":"Red city & souks, fresh mint tea."}
+  },
+  {
+    "id":5,
+    "name":{"zh":"圣托里尼","en":"Santorini"},
+    "continent":"europe",
+    "climate":"temperate",
+    "lat":36.3932,
+    "lng":25.4615,
+    "img":"https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?auto=format&fit=crop&w=800&q=60",
+    "desc":{"zh":"蓝顶教堂与爱琴海日落","en":"Blue-domed churches & Aegean sunset."}
+  },
+  {
+    "id":6,
+    "name":{"zh":"里约热内卢","en":"Rio de Janeiro"},
+    "continent":"samerica",
+    "climate":"tropical",
+    "lat":-22.9068,
+    "lng":-43.1729,
+    "img":"https://images.unsplash.com/photo-1483729558449-99ef09a8c325?auto=format&fit=crop&w=800&q=60",
+    "desc":{"zh":"桑巴与海滩，基督山俯瞰","en":"Samba & beaches, overlook from Christ the Redeemer."}
+  },
+  {
+    "id":7,
+    "name":{"zh":"温哥华","en":"Vancouver"},
+    "continent":"namerica",
+    "climate":"temperate",
+    "lat":49.2827,
+    "lng":-123.1207,
+    "img":"https://images.unsplash.com/photo-1503614472-8c93d56e92ce?auto=format&fit=crop&w=800&q=60",
+    "desc":{"zh":"雪山与海湾，樱花季骑行","en":"Snow peaks & bays, cycling under cherry blossoms."}
+  },
+  {
+    "id":8,
+    "name":{"zh":"皇后镇","en":"Queenstown"},
+    "continent":"oceania",
+    "climate":"cold",
+    "lat":-45.0312,
+    "lng":168.6626,
+    "img":"https://images.unsplash.com/photo-1507699622108-4be3abd695ad?auto=format&fit=crop&w=800&q=60",
+    "desc":{"zh":"瓦卡蒂普湖与极限运动","en":"Lake Wakatipu & adventure capital."}
+  }
+]
